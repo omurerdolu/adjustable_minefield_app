@@ -1,0 +1,17 @@
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\bin\Debug\Oyunnn.exe
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\bin\Debug\Oyunnn.pdb
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Form1.resources
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csproj.GenerateResource.Cache
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.exe
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.pdb
+C:\Users\taa\Documents\Visual Studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\bin\Debug\Oyunnn.exe
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\bin\Debug\Oyunnn.pdb
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Form1.resources
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.exe
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.pdb
+C:\Users\LENOVO\Desktop\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Form2.resources
